@@ -56,6 +56,6 @@ python eval_ssim.py
 
 This code includes code derived from 3 third-party libraries
 
-https://github.com/nv-tlabs/nglod
-https://github.com/u2ni/ICML2021
-https://github.com/NVIDIAGameWorks/kaolin
+https://github.com/nv-tlabs/nglod <br>
+https://github.com/u2ni/ICML2021 <br>
+https://github.com/NVIDIAGameWorks/kaolin <br>
